@@ -1,11 +1,12 @@
 # Frontend Mentor - QR code component solution
 
-This is a solution to the [QR code component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
+This is a solution to the [QR code component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H).
+
+Hello (FE) World! This is the first FEM project that I completed. No routing, threads, cacheing, rpcs ;)
 
 ## Table of contents
 
-- [Overview](#overview)
-  - [Links](#links)
+- [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
@@ -14,15 +15,9 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 - [Author](#author)
 - [Screenshot](#screenshot)
 
-## Overview
-
-A solution to the QR code component challenge.
-
-Hello (FE) World! This is the first FEM project that I completed. No routing, threads, cacheing, rpcs ;)
-
 ### Links
 
-- Solution URL: [](https://your-solution-url.com)
+- Solution URL: [](https://github.com/cocuzzo/FEM-qr-code-component)
 
 ## My process
 - VSCode with LiveView to develop & debug
@@ -66,8 +61,6 @@ I'd like to use semantic tags further and really learn to optimize the html stru
 ### Useful resources
 
 - ["Preload, prefetch, and other <link> tags"](https://3perf.com/blog/link-rels/) - One can go down the rabbit-hole of browser asset loading...
-
-- [Atlassian tutorial on .gitignore](https://www.atlassian.com/git/tutorials/saving-changes/gitignore) - This helped  refresh my knowledge of ```.gitignore`` in order to avoid commiting images and other assets to repos.
 
 ## Author
 
